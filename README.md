@@ -5,3 +5,5 @@
 ## nova
 
 # USO DO COMANDO GIT RESTORE
+
+* comando git push
